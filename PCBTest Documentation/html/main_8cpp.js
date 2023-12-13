@@ -1,0 +1,28 @@
+var main_8cpp =
+[
+    [ "handle_DocumentRoot", "main_8cpp.html#ab25b75a0fc1cc2eb45e7afa0f57b4a6a", null ],
+    [ "handle_NotFound", "main_8cpp.html#ac0b9ea1d435271c3832076b57b803da7", null ],
+    [ "HTML_header", "main_8cpp.html#a56d51c0dcf49cb5bc93d901581d3fed2", null ],
+    [ "pitch", "main_8cpp.html#a792a7ed3afab0d8d28bbc178724d74fa", null ],
+    [ "server", "main_8cpp.html#a48f3f185be3ea2d153c347a157b38d42", null ],
+    [ "task_read_IMU", "main_8cpp.html#a215187d2c6c56c0d901296ff247fa5f3", null ],
+    [ "task_SERVER", "main_8cpp.html#a12fb4b1a42901b0a82b7a42cf885a02d", null ],
+    [ "I2C_SCL", "main_8cpp.html#a71491c4446c3ccd5911a7b00e4770e41", null ],
+    [ "I2C_SDA", "main_8cpp.html#ae2b05c09d1e08ae25b56bd76aa309e78", null ],
+    [ "m1_freq", "main_8cpp.html#a27f26e7f22235bf47afde661b2709c46", null ],
+    [ "m1_in1_pin", "main_8cpp.html#a73fbf3592451fd2e972ef37ef8fbf65c", null ],
+    [ "m1_in2_pin", "main_8cpp.html#a1b6222d42e0eb3ba161609c6603fafbb", null ],
+    [ "m2_freq", "main_8cpp.html#ab6f06d6ba8a0fe769371c15976b0cb35", null ],
+    [ "m2_in1_pin", "main_8cpp.html#a76bf2491c9fef845258a1ba4d9a6ab05", null ],
+    [ "m2_in2_pin", "main_8cpp.html#ab851828b9d39a8a4c41fef68e7ac56ba", null ],
+    [ "m3_freq", "main_8cpp.html#ac42db60fc34fac6956e8ba70aec33d59", null ],
+    [ "m3_in1_pin", "main_8cpp.html#ad5d1cd39f8dbdaa51438df299dcac0f3", null ],
+    [ "m3_in2_pin", "main_8cpp.html#ac26b1657ab139bf8d088796848507bc8", null ],
+    [ "mpu", "main_8cpp.html#a02aacaacff5ac4b723ca8e5b080e6fcd", null ],
+    [ "MPU_ADDR", "main_8cpp.html#a4c71a6e0c56c9ef2622ec3b1ad57309f", null ],
+    [ "pitch_motor", "main_8cpp.html#a440244da7c2c9d757479b2323f682003", null ],
+    [ "pwm_resolution", "main_8cpp.html#ac604e1f916b23b45c1bc852b2e815216", null ],
+    [ "PWR_MGMT_1", "main_8cpp.html#ad85a9f81a9a190688c035962d6453038", null ],
+    [ "roll_motor", "main_8cpp.html#a50003e5ed4b6e0d79365953e3bfdd59f", null ],
+    [ "yaw_motor", "main_8cpp.html#a62d1113338a7b6243a7d63eea4f5e036", null ]
+];
